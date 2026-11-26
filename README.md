@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## A handoff that leaves room for ‘we don’t know’
+
+Three tools can all look like a dashboard and still solve completely different problems. Command Center matters because the person inheriting it should not have to guess whether they are looking at the founder’s workspace, the dispatch console or a diagram of either.
+
+This release contains the [source handoff specification](docs/HANDOFF.md) and a [scope paper](docs/WHITEPAPER.md). A workspace listing was located. The original implementation and its distribution rights have not been established here; there is no Command Center executable to try in this repository.
+
+A maintainer can review the handoff privately: identify the owner, name one input and output, and define one acceptance check. The useful public correction is a more precise interface description. Do not put access credentials, an internal export or operating records in an issue.
+
 **Public specification · original source pending.** Identify the original command-center system and the interfaces that can safely be shared.
 
 ### Setup and usage
