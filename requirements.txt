@@ -1,0 +1,2 @@
+# This public handoff consists of Markdown and JSON.
+# Its optional inspection command uses the Python 3 standard library.

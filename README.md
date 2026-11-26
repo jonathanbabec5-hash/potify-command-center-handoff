@@ -14,10 +14,11 @@ A maintainer can review the handoff privately: identify the owner, name one inpu
 
 ### Setup and usage
 
-A Markdown reader is sufficient for this handoff.
+Open the handoff in any Markdown reader. Python 3 can also print its machine-readable scope record. The dependency manifest lists the requirements for this public edition.
 
 ```sh
 cat docs/HANDOFF.md
+python3 -m json.tool docs/source.json
 ```
 
 Confirm the source and project maintainer. 
@@ -28,7 +29,7 @@ The intended operator workspace has its own source-recovery checklist. This edit
 
 ### Verification
 
-A Replit workspace listing was located. No source export or executable was available to test.
+The Replit project menu identifies a different workspace creator. This edition documents the source handoff. Publication of the original application still needs a grant from its maintainer.
 
 ### Release scope
 

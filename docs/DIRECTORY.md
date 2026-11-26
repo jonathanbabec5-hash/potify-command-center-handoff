@@ -1,7 +1,7 @@
 # Repository tree
 
 ```text
-potify-command-center/
+potify-command-center-handoff/
 ├── docs/
 │   ├── BUILD-LOG.md
 │   ├── DIRECTORY.md
@@ -10,5 +10,6 @@ potify-command-center/
 │   ├── WHITEPAPER.md
 │   └── source.json
 ├── .gitignore
-└── README.md
+├── README.md
+└── requirements.txt
 ```

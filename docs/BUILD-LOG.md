@@ -11,3 +11,7 @@
 **Owner and decision.** Chance coordinates the handoff with the original workspace maintainer. Only this newly authored specification is being released. Original workspace code, operating records and redistributable scope remain unverified.
 
 This dated record describes the developer package. Verify remote commit and tree in the publication receipt before announcing a GitHub release.
+
+## November 26 · Workspace ownership
+
+The shared Replit workspace identifies another account as its creator. A grant from that maintainer to distribute the original source is still outstanding. The public edition includes a dependency manifest and a standard-library command for inspecting its published scope record.
