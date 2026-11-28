@@ -1,5 +1,13 @@
 # Potify Command Center
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A maintainer | [Read the handoff](docs/HANDOFF.md) | Identify the owner and the missing source or distribution evidence. |
+| An architect | [Read the scope paper](docs/WHITEPAPER.md) | Define an input, an output and an acceptance check. |
+| An operations contributor | [Explore the workflow library](https://github.com/jonathanbabec5-hash/potify-operations-workflow) | Review a separate public project while the original source remains pending. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## A handoff that leaves room for ‘we don’t know’
